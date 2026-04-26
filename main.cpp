@@ -1,6 +1,8 @@
 /* Name: Angel Mora
  * Instructor: Professor Vaughn
  * Date: 4/25/26
+ * Course: MCSCI-272
+ * Lab: Vectors Challenge 1
  * Purpose: This application provides utilities for retrieving day and month
  * names based on numeric input using global const string arrays and robust
  * input validation */
